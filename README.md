@@ -1,4 +1,4 @@
-<img src="https://github.com/Kartik-Katkar/Kartik-Katkar/blob/main/kartik%20katkar%20banner.png">
+<img src="https://github.com/Kartik-Katkar/Kartik-Katkar/blob/main/banner.png">
 <h1 align="center">Hi 👋, I'm Kartik Katkar</h1>
 <h3 align="center">Developer from India</h3>
 - 👀 I’m interested in Software devlopment,Web Development<br>
