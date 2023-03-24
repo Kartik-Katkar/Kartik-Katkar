@@ -35,13 +35,13 @@
 
 ###
 
-![kartik-katkar's Stats](https://github-readme-stats.vercel.app/api?username=kartik-katkar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Kartik-Katkar's Stats](https://github-readme-stats.vercel.app/api?username=Kartik-Katkar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-katkar&theme=tokyonight&hide_border=false" alt="kartik-katkar's Streak"/>
 </p>
 
-![kartik-katkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-katkar&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![Kartik-Katkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Katkar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
