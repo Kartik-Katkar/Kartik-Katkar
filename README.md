@@ -24,15 +24,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/></a>
   </p>
 
-<p align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kartik-katkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kartik-katkar&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-katkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kartik-katkar&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-katkar" /> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kartik-katkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik-katkar" alt="kartik-katkar" /></a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=kartik-katkar&icon=1&color=0)](https://visitcount.itsvg.in)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kartik-Katkar&theme=github-dark-blue&hide_border=true&border_radius=10&dates=EBEBEB&fire=EB9016)](https://git.io/streak-stats)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik-katkar&show_icons=true&locale=en" alt="kartik-katkar" /></p>
-
- </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
