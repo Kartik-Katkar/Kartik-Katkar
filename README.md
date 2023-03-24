@@ -24,6 +24,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/></a>
   </p>
 
+<a align="center">
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kartik-katkar&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-katkar" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik-katkar" alt="kartik-katkar" /></a> </p>
@@ -32,3 +34,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik-katkar&show_icons=true&locale=en" alt="kartik-katkar" /></p>
+
+ </a>
