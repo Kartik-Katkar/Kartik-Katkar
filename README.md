@@ -27,6 +27,8 @@
   <br>
 <h1 align="center">Stats 📊</h1>
 
+<h1 align="center">Stats 📊</h1>
+
 ###
 
 <div align="center">
@@ -37,15 +39,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kartik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-katkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-![](https://github-profile-trophy.vercel.app/?username=kartik-katkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-  </div>
 
+![](https://github-profile-trophy.vercel.app/?username=kartik-katkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ###
 
