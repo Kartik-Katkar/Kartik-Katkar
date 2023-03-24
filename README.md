@@ -35,12 +35,12 @@
 
 ###
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kartik-Katkar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Kartik-Katkar's Stats"/>
 </p>
 
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-katkar&theme=tokyonight&hide_border=false" alt="kartik-katkar's Streak"/>
 </p>
 
