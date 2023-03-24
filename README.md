@@ -42,12 +42,11 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 ![](https://github-profile-trophy.vercel.app/?username=kartik-katkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</div>
+</p>
 ###
-
-<div align="center">
+<p align="center">
 ![snake gif](https://github.com/Kartik-Katkar/Kartik-Katkar/blob/output/github-contribution-grid-snake.gif)
-</div>
+  </p>
 ###
