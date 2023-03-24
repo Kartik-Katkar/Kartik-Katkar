@@ -43,10 +43,16 @@
 ## 🏆 GitHub Trophies
 
 
-![](https://github-profile-trophy.vercel.app/?username=kartik-katkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kartik-katkar&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophy" />
+</p>
 
-### Snake eating contributions
 
-![snake gif](https://github.com/Kartik-Katkar/Kartik-Katkar/blob/output/github-contribution-grid-snake.gif)
+## Contributions
+
+<p align="center">
+  <img src="https://github.com/Kartik-Katkar/Kartik-Katkar/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
+</p>
+
 
 ###
