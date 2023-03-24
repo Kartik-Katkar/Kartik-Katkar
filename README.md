@@ -49,6 +49,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kartik/kartik/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Kartik-Katkar/Kartik-Katkar/blob/output/github-contribution-grid-snake.gif)
 
 ###
