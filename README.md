@@ -24,15 +24,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/></a>
   </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kartik-Katkar&theme=github-dark-blue&hide_border=true&border_radius=10&dates=EBEBEB&fire=EB9016)](https://git.io/streak-stats)
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kartik-katkar&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-katkar" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik-katkar" alt="kartik-katkar" /></a> </p>
 
-### other
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kartik-Katkar&theme=github-dark-blue&hide_border=true&border_radius=10&dates=EBEBEB&fire=EB9016)](https://git.io/streak-stats)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik-katkar&show_icons=true&locale=en" alt="kartik-katkar" /></p>
