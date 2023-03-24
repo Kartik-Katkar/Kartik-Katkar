@@ -25,7 +25,7 @@
   </p>
 
 
-<p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=Kartik-Katkar&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
