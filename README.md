@@ -23,6 +23,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/></a>
   </p>
+  <hr>
+  <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kartik-katkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
