@@ -28,10 +28,14 @@
 <h1 align="center">Stats 📊</h1>
 
 ###
-<p align="center">Profile visits</p>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/kartik/count.svg?"  />
 </div>
+
+## <p align="center">Profile visits</p>
+
+<hr>
 
 ###
 
