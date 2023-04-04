@@ -28,7 +28,7 @@
 <h1 align="center">Stats 📊</h1>
 
 ###
-profile visitors
+<p align="center">Profile visits</p>
 <div align="center">
   <img src="https://profile-counter.glitch.me/kartik/count.svg?"  />
 </div>
