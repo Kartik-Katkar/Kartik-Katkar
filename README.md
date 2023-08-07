@@ -1,4 +1,7 @@
 <img src = "https://github.com/Kartik-Katkar/Kartik-Katkar/blob/main/Banner.gif">
+<br>
+<br>
+<hr>
 
 - 👀 I’m interested in Software devlopment,Web Development<br>
 - 📫 How to reach me kartikkatkar01@gmail.com
