@@ -1,6 +1,5 @@
 <img src = "https://github.com/Kartik-Katkar/Kartik-Katkar/blob/main/Banner.gif">
-<h1 align="center">Hi 👋, I'm Kartik Katkar</h1>
-<h3 align="center">Developer from India</h3>
+
 - 👀 I’m interested in Software devlopment,Web Development<br>
 - 📫 How to reach me kartikkatkar01@gmail.com
 
