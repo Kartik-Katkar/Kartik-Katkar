@@ -1,4 +1,4 @@
-<img src = "https://github.com/Kartik-Katkar/Kartik-Katkar/blob/main/Banner.gif">
+<a href="https://codepen.io/@kartik-katkar"><img src = "https://github.com/Kartik-Katkar/Kartik-Katkar/blob/main/Banner.gif"></a>
 <br>
 
 - 📫 How to reach me kartikkatkar01@gmail.com
