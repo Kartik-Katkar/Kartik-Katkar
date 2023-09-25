@@ -62,11 +62,11 @@
 </p>
 
 
-## Contributions
+// ## Contributions
 
-<p align="center">
-  <img src="https://github.com/Kartik-Katkar/Kartik-Katkar/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
-</p>
+// <p align="center">
+ // <img src="https://github.com/Kartik-Katkar/Kartik-Katkar/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
+// </p>
 
 
-###
+// ###
