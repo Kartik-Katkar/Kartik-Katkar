@@ -50,8 +50,10 @@
 </p>
 
 <div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+![Snake animation](https://github.com/Kartik-Katkar/Kartik-Katkar/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+
 
 
 
