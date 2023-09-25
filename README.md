@@ -50,9 +50,8 @@
 </p>
 
 <div align="center">
-![Snake animation](https://github.com/Kartik-Katkar/Kartik-Katkar/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Kartik-Katkar/Kartik-Katkar/blob/output/github-contribution-grid-snake.svg"></img>
 </div>
-
 
 
 
