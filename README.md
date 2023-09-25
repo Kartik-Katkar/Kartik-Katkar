@@ -61,12 +61,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kartik-katkar&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophy" />
 </p>
 
-
-// ## Contributions
-
-// <p align="center">
- // <img src="https://github.com/Kartik-Katkar/Kartik-Katkar/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
-// </p>
-
-
-// ###
