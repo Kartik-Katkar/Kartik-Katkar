@@ -49,12 +49,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-katkar&theme=tokyonight&hide_border=false" alt="kartik-katkar's Streak"/>
 </p>
 
-<div align="center">
-<img src="https://github.com/Kartik-Katkar/Kartik-Katkar/blob/output/github-contribution-grid-snake.svg"></img>
-</div>
-
-
-
 
 ## 🏆 GitHub Trophies
 
