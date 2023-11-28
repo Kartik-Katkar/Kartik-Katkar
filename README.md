@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/kartik-katkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-katkar" height="30" width="40" /></a>
 
 <a href="https://www.codechef.com/users/kartik_k01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kartik_k01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/kartikkatkar01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="kartik_k01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kartikkatkar01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="kartik_k01" height="30" width="40" />
 <a href="https://leetcode.com/Kartik-Katkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kartik-Katkar" height="30" width="40" /></a>
 <a target="_blank" href="mailto:kartikkatkar01@gmail.com"><img align="center" height="30" width="40" src="mail.png"></a>
 </p>
