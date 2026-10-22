@@ -53,20 +53,15 @@
 `Python` • `SQL` • `Java` • `Shell Scripting` • `REST APIs`
 
 <!-- Cloud & Infrastructure -->
-<h4>Cloud & Infrastructure</h4>
+<h4>☁️ Cloud & Infrastructure</h4>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="42" alt="AWS" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS" title="AWS"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/amazons3/569A31" height="42" alt="Amazon S3" title="Amazon S3"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/awslambda/FF9900" height="42" alt="AWS Lambda" title="AWS Lambda"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B" height="42" alt="Amazon CloudWatch" title="Amazon CloudWatch"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="42" alt="Oracle Cloud Infrastructure" title="Oracle Cloud Infrastructure"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" height="32" alt="Oracle Cloud Infrastructure"/>
 </p>
 
-`AWS` • `Amazon S3` • `AWS Lambda` • `AWS KMS` • `CloudWatch` • `Oracle Cloud Infrastructure`
+`AWS` • `S3` • `Lambda` • `KMS` • `CloudWatch` • `Oracle Cloud Infrastructure`
 
 <!-- AI & GenAI -->
 <h4>AI & GenAI</h4>
